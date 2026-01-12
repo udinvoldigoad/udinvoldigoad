@@ -41,4 +41,5 @@ Git • GitHub • Basic Automation Tools
 - Instagram: https://instagram.com/udin_voldigoad
 
 
-![Contribution Snake](https://raw.githubusercontent.com/udinvoldigoad/udinvoldigoad/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/udinvoldigoad/udinvoldigoad/output/github-contribution-grid-snake-dark.svg)
+

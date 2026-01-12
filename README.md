@@ -1,16 +1,26 @@
-## Hi there 👋
+# Udin Voldigoad
 
-<!--
-**udinvoldigoad/udinvoldigoad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Informatics Engineering student at Institut Teknologi Sumatera.  
+Interested in automation, web development, and practical programming projects.
 
-Here are some ideas to get you started:
+## 🔧 Focus
+- Learning web development (HTML, CSS, JavaScript)
+- Building simple bots and automation tools
+- Improving Git & GitHub workflow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Highlight Projects
+- **bot-pengeluaran**  
+  Simple expense tracking bot for learning automation concepts
+
+- **ridhomsaputra**  
+  Personal profile website project
+
+- **lhs-kelompok-3**  
+  Team-based web project for coursework
+
+## 🛠 Tech Stack
+HTML • CSS • JavaScript • React • GitHub • Git
+
+## 📫 Contact
+- Instagram: https://instagram.com/udin_voldigoad
+- GitHub: https://github.com/udinvoldigoad

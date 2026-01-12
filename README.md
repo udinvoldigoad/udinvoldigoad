@@ -12,7 +12,7 @@ Interested in automation, web development, and practical programming projects.
 - **bot-pengeluaran**  
   Simple expense tracking bot for learning automation concepts
 
-- **ridhomsaputra**  
+- **Tugas-Biodata**  
   Personal profile website project
 
 - **lhs-kelompok-3**  

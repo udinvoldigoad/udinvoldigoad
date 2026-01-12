@@ -39,3 +39,6 @@ Git • GitHub • Basic Automation Tools
 ## 🌐 Connect With Me
 - GitHub: https://github.com/udinvoldigoad  
 - Instagram: https://instagram.com/udin_voldigoad
+
+
+![Contribution Snake](https://raw.githubusercontent.com/udinvoldigoad/udinvoldigoad/output/github-contribution-grid-snake.svg)

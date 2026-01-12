@@ -29,16 +29,6 @@ Git • GitHub • Basic Automation Tools
 
 ---
 
-## 📊 GitHub Activity
-
-![GitHub Streak](https://streak-stats.demolab.com?user=udinvoldigoad&theme=default&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=udinvoldigoad&show_icons=true&hide_title=true&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=udinvoldigoad&layout=compact&hide_border=true)
-
----
-
 ## ⚙️ Working Principles
 - Learn by building, not just reading
 - Documentation matters

@@ -37,9 +37,9 @@ Git • GitHub • Basic Automation Tools
 ---
 
 ## 🌐 Connect With Me
-- GitHub: https://github.com/udinvoldigoad  
-- Instagram: https://instagram.com/udin_voldigoad
-- LinkedIn : https://www.linkedin.com/in/ridhomaulanasaputra
+- GitHub     : https://github.com/udinvoldigoad  
+- Instagram  : https://instagram.com/udin_voldigoad
+- LinkedIn   : https://www.linkedin.com/in/ridhomaulanasaputra
 
 
 ![Contribution Snake](https://raw.githubusercontent.com/udinvoldigoad/udinvoldigoad/output/github-contribution-grid-snake-dark.svg)

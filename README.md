@@ -10,7 +10,6 @@ I enjoy turning simple ideas into working systems, especially those that automat
 ## 🚀 What I’m Currently Focusing On
 - Web development fundamentals and modern tooling
 - Automation & bots (workflow-based and script-based)
-- Writing cleaner, more maintainable code
 - Understanding how systems work end-to-end (from input to output)
 
 ---

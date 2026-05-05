@@ -7,34 +7,6 @@ I enjoy turning simple ideas into working systems, especially those that automat
 
 ---
 
-## 🚀 What I’m Currently Focusing On
-- Web development fundamentals and modern tooling
-- Automation & bots (workflow-based and script-based)
-- Understanding how systems work end-to-end (from input to output)
-
----
-
-## 🧠 Technical Interests
-- Automation workflows & integrations
-- Web applications (frontend-oriented)
-- API usage & data handling
-- Tooling that improves productivity
-
----
-
-## 🛠 Tech Stack
-HTML • CSS • JavaScript • React • C++ 
-Git • GitHub • Basic Automation Tools
-
----
-
-## ⚙️ Working Principles
-- Learn by building, not just reading
-- Documentation matters
-- Small improvements, done consistently
-
----
-
 ## 🌐 Connect With Me
 - GitHub: https://github.com/udinvoldigoad  
 - Instagram: https://instagram.com/udin_voldigoad
@@ -42,4 +14,3 @@ Git • GitHub • Basic Automation Tools
 
 
 ![Contribution Snake](https://raw.githubusercontent.com/udinvoldigoad/udinvoldigoad/output/github-contribution-grid-snake-dark.svg)
-

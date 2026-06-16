@@ -18,7 +18,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://udin-readme-cards.vercel.app/api/skills?theme=dark">
     <source media="(prefers-color-scheme: light)" srcset="https://udin-readme-cards.vercel.app/api/skills?theme=light">
-    <img src="https://udin-readme-cards.vercel.app/api/skills?theme=dark" alt="Udin Voldigoad Skills">
+    <img src="https://udin-readme-cards.vercel.app/api/skills?theme=dark&v=2" alt="Udin Voldigoad Skills">
   </picture>
 </div>
 

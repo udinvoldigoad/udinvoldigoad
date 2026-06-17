@@ -10,7 +10,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://udin-readme-cards.vercel.app/api/profile?theme=dark&v=4">
     <source media="(prefers-color-scheme: light)" srcset="https://udin-readme-cards.vercel.app/api/profile?theme=light&v=4">
-    <img src="https://udin-readme-cards.vercel.app/api/profile?theme=dark&v=4" alt="Ridho Maulana Saputra Profile">
+    <img src="https://udin-readme-cards.vercel.app/api/profile?theme=dark&v=5" alt="Ridho Maulana Saputra Profile">
   </picture>
 </div>
 
@@ -18,7 +18,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://udin-readme-cards.vercel.app/api/skills?theme=dark&v=4">
     <source media="(prefers-color-scheme: light)" srcset="https://udin-readme-cards.vercel.app/api/skills?theme=light&v=4">
-    <img src="https://udin-readme-cards.vercel.app/api/skills?theme=dark&v=4" alt="Ridho Maulana Saputra Skills">
+    <img src="https://udin-readme-cards.vercel.app/api/skills?theme=dark&v=5" alt="Ridho Maulana Saputra Skills">
   </picture>
 </div>
 

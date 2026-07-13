@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://udin-readme-cards.vercel.app/api/header?theme=dark&v=5">
     <source media="(prefers-color-scheme: light)" srcset="https://udin-readme-cards.vercel.app/api/header?theme=light&v=5">
-    <img src="https://udin-readme-cards.vercel.app/api/header?theme=dark&v=5" alt="Ridho Maulana Saputra Header">
+    <img src="https://udin-readme-cards.vercel.app/api/header?theme=dark&v=6" alt="Ridho Maulana Saputra Header">
   </picture>
 </div>
 

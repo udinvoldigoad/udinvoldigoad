@@ -32,3 +32,5 @@
 
 
 ![Contribution Snake](https://raw.githubusercontent.com/udinvoldigoad/udinvoldigoad/output/github-contribution-grid-snake-dark.svg)
+
+![Views](https://komarev.com/ghpvc/?username=udinvoldigoad)
